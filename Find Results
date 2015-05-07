@@ -1,0 +1,22 @@
+Searching 45 files for "custom-android-camera"
+
+/Users/rpavez/Sites/ti-camera-pro/build.xml:
+    1: <project name="custom-android-camera" default="dist">
+    2  	<description>
+    3  		Ant build script for Titanium Android module signalstrength
+
+/Users/rpavez/Sites/ti-camera-pro/documentation/index.md:
+    5  Titanium View with the background image sourced directly from the Android camera.
+    6  
+    7: ## Accessing the custom-android-camera Module
+    8  
+    9  To access this module from JavaScript, you would do the following:
+
+/Users/rpavez/Sites/ti-camera-pro/manifest:
+   13  
+   14  # these should not be edited
+   15: name: custom-android-camera
+   16  moduleid: com.ti.camera.pro
+   17  guid: 55A61D2F-CFEE-42D5-80B1-6C711BC33BE7
+
+3 matches across 3 files

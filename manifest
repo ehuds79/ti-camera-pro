@@ -1,0 +1,19 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.6
+apiversion: 2
+architectures: armeabi armeabi-v7a x86
+description: Custom Android Camera
+author: Michael Browne
+license: Specify your license
+copyright: Copyright (c) 2013 by ProductWorld
+
+
+# these should not be edited
+name: ti-camera-pro
+moduleid: com.ti.camera.pro
+guid: 55A61D2F-CFEE-42D5-80B1-6C711BC33BE7
+platform: android
+minsdk: 3.5.1.GA
